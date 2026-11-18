@@ -2,7 +2,7 @@
 
 **Trabajo Práctico Integrador - Programación II**  
 **Tecnicatura Universitaria en Programación - UTN**  
-**Autores:** Di Lorenzo, Karim / Villalba
+**Autores:** Di Lorenzo, Karim / Villalba, Agustina
 
 ---
 
