@@ -78,5 +78,5 @@ food_store/
 ## 4. Enlaces de Entrega
 
 * **Informe Técnico en PDF:** Incluido en la raíz del proyecto (`Informe_TPI_Programacion_II.pdf`).
-* **Video Demostración (10-15 min):** 
+* **Video Demostración (10-15 min):** (https://youtu.be/ZzXBp6-Lyko)
 * **Repositorio GitHub:** (https://github.com/KarimDiLorenzo/TPI-PROG2-DiLorenzo-Villalba-TUP-UTN-FRM.git)
